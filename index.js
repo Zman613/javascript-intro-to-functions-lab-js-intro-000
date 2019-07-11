@@ -22,7 +22,7 @@ function sayHiToGrandma(string) {
     case .toUpperCase():
       return "YES INDEED!"
       break;
-    case .toLowerCase("I love you, Grandma."):
+    case .toUpperCase("I love you, Grandma."):
       return "I love you, too."
       break;
     default:

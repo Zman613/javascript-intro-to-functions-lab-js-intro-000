@@ -15,7 +15,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  switch (string) {
+  switch(string) {
     case toLowerCase():
       return "I can't hear you!"
       break;
@@ -26,5 +26,5 @@ function sayHiToGrandma(string) {
       return "I love you, too."
       break;
     default:
-
   }
+}
